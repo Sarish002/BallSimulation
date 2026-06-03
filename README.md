@@ -1,7 +1,5 @@
 # Ball Simulation
 
----
-
 This is a python package to aid you in designing Physics Simulations of Bouncing Balls
 
 # Adjustable Parameters
